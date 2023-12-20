@@ -1,3 +1,4 @@
+This is a fork of<https://codeberg.org/fyr77/dns-mobileconfig>
 # dns-mobileconfig
 A simple website to create DoH and DoT config files for iOS. 
 
